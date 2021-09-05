@@ -1,7 +1,5 @@
 package ru.ryabinintm.expression;
 
-import java.net.Inet4Address;
-
 public class MultipleExpression extends Expression {
 
     public MultipleExpression(String firstValue, String lastValue) {
